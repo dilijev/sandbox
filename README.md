@@ -1,4 +1,4 @@
 sandbox
 =======
 
-Playing around with stuff.
+For experimenting with concepets and playing around.
