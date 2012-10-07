@@ -11,5 +11,5 @@ const: const/const.cpp
 	$(CXX) $(DEBUGFLAGS) const/const.cpp -o $(EXE)
 
 clean:
-	*.o $(EXE)
+	rm -rf *.o $(EXE)
 
